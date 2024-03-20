@@ -1,0 +1,16 @@
+:root {
+  color: white;
+}
+
+.PTile {
+  width: 100px;
+}
+
+.crack {
+  width: 100%;
+}
+
+.body {
+  display: flex;
+  position: relative;
+}
